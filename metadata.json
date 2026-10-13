@@ -1,0 +1,5 @@
+{
+  "name": "AI Kids Story Creator",
+  "description": "An integrated AI application to create a custom story for children based on a single photo of the child, generating illustrative images and producing a final PDF file for download.",
+  "requestFramePermissions": []
+}
